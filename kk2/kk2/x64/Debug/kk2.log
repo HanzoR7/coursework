@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\marat\source\repos\kk2\kk2\MyForm.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kk2.vcxproj -> C:\Users\marat\source\repos\kk2\x64\Debug\kk2.exe
